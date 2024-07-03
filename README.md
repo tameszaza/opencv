@@ -1,4 +1,5 @@
 <u><strong></strong></u><br>
+Load images and videos from "Images" folder<br>
 <u><strong>Introduction to OpenCV</strong></u><br>
 This module provides an overview of OpenCV, the open-source computer vision and machine learning software library. You'll learn about its history, key features, and how to set up the library on your machine. By the end of this module, you'll be able to read, display, and manipulate images using OpenCV.
 

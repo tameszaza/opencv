@@ -25,3 +25,5 @@ Understand how to measure the size of objects in images using OpenCV. This modul
 
 <u><strong>Face Detection</strong></u><br>
 This module introduces you to face detection using OpenCV. You'll learn how to detect faces in images and videos, a crucial skill for applications in security, authentication, and social media.
+
+<u><strong>For more information, visit <a href="https://pyimagesearch.com/">PyImageSearch</a></strong></u>
